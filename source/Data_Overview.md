@@ -13,6 +13,6 @@ donde los campos entre llaves indican: <br />
 {frecuencia} = 2 dígitos para indicar la frecuencia del los datos. Actualmente solo se disponibilizan 01H y 24H. <br />
 {plazo} = 3 dígitos para el plazo de pronóstico.
 
-Ejemplos:
+Ejemplos:<br />
 * /DATA/WRF/DET/2022/03/14/00/WRFDETAR_01H_20220314_00_000.nc
 * /DATA/WRF/DET/2022/03/14/00/WRFDETAR_24H_20220314_00_000.nc
