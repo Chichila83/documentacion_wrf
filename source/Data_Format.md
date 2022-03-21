@@ -24,7 +24,7 @@ El tipo de proyección utilizada es la [*Confome de Lambert*](https://www2.mmm.u
 |Tmax   |Temperatura máxima diaria (\*)   |°C   |float32   |
 |Tmin   |Temperatura mínima diaria (\*)   |°C   |float32   |
 
-(\*) Variables calibradas con observaciones de superficie. Para más información consultar la nota técnica [Cutraro y otros, 2020](http://hdl.handle.net/20.500.12160/1405). En caso de que no se encuentren disponibles las variables calibradas, se presentará el valor pronosticado sin calibrar.
+(\*) Variables calibradas con observaciones de superficie. Para más información consultar la nota técnica [Cutraro y otros, 2020](http://repositorio.smn.gob.ar/bitstream/handle/20.500.12160/1405/Nota_Tecnica_SMN_2020-81.pdf?sequence=1&isAllowed=y). En caso de que no se encuentren disponibles las variables calibradas, se presentará el valor pronosticado sin calibrar.
 
 En el caso de la Tmín válida para el día X el valor corresponde a la temperatura mínima pronosticada para el día X entre las 00Z y las 12Z.
 Para Tmáx el valor del día X corresponde a la temperatura máxima pronosticada entre las 12Z del día X y las 00Z del día X+1.
